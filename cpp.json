@@ -1,0 +1,7 @@
+{
+	"Default file": {
+		"prefix": "usaco",
+		"body": ["// link to problem", "#include <iostream>", "\nusing namespace std;", "\n#define MAX_INT 2147483647", "\nint main() {", "\n\tsystem(\"pause\");", "\treturn 0;", "}"],
+		"description": "My default cpp file"
+	}
+}
