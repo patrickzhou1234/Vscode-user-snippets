@@ -1,0 +1,17 @@
+{
+	"prt": {
+		"prefix": "prt",
+		"body": ["System.out.print(\"$0\");"],
+		"description": "My default java file"
+	},
+	"prtln": {
+		"prefix": "prtl",
+		"body": ["System.out.println(\"$0\");"],
+		"description": "My default java file"
+	},
+	"prtf": {
+		"prefix": "prtf",
+		"body": ["System.out.printf(\"%15s%\", \"$0\");"],
+		"description": "My default java file"
+	}
+}
